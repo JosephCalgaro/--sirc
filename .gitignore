@@ -1,0 +1,5 @@
+*.exe
+#algumaPasta
+*.pyc
+.vscode
+texto.txt
